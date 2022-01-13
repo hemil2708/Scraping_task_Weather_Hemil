@@ -1,0 +1,5 @@
+_id,City Name,Current weather in Celsius,Weather condition,Chances of having rain
+61e00bdcbe5b5bc395804f7e,Bangalore,27°,Partly Cloudy,Dry conditions will continue.
+61e00c00e1174f86f765a3b9,Mumbai,26°,Smoke,1% chance of rain until 17:30
+61e00c01e1174f86f765a3ba,"Hyderabad, Telangana",24°,Partly Cloudy,4% chance of rain until 17:30
+61e00c01e1174f86f765a3bb,Delhi,16°,Fog,1% chance of rain until 17:30
